@@ -1,12 +1,12 @@
 # Bienvenue sur mon profil GitHub 👋
 
 ## À propos de moi
-Je suis Lucas, en intelligence Artificielle. Passionné(e) par l'informatique, je travaille actuellement sur un matching de cv et de mission.
+Je suis Lucas, en intelligence Artificielle. Passionné par l'informatique, je travaille actuellement sur un matching de cv et de mission.
 
 ## Compétences
-- Langages de programmation: Python , R , Jupyther , Html/css , Java
-- Outils et technologies: VsCode , Windows , PowerBi , Exel
-- Autres compétences: Dopshipping , Ad , Social Média
+- Langages de programmation: Python , R , Jupyter , Html/css , Java
+- Outils et technologies: VsCode , Windows , PowerBi , Excel
+- Autres compétences: Dropshipping , Ad , Social Média
 
 ## Contactez-moi
 - 📫 Comment me joindre: Lucasdelonreb@gmail.com
