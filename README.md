@@ -4,9 +4,9 @@
 Je suis Lucas, en intelligence Artificielle. Passionné par l'informatique, je travaille actuellement sur un matching de cv et de mission.
 
 ## Compétences
-- Langages de programmation: Python , R , Jupyter , Html/css , Java
+- Langages de programmation: Python , R , Jupyter , HTML/CSS , Java
 - Outils et technologies: VsCode , Windows , PowerBi , Excel
-- Autres compétences: Dropshipping , Ad , Social Média
+- Autres compétences: Dropshipping , Ad , Social Media
 
 ## Contactez-moi
 - 📫 Comment me joindre: Lucasdelonreb@gmail.com
