@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GitHub 👋
 
 ## À propos de moi
-Je suis Lucas, en intelligence Artificielle. Passionné par l'informatique, je travaille actuellement sur un matching de cv et de mission.
+Je suis Lucas, étudiant en intelligence Artificielle. Passionné par l'informatique, je travaille actuellement sur un matching de cv et de mission.
 
 ## Compétences
 - Langages de programmation: Python , R , Jupyter , HTML/CSS , Java
