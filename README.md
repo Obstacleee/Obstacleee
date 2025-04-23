@@ -28,7 +28,7 @@ Currently, I work on projects like stock prediction, web scraping, and automatin
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obstacleee&show_icons=trueact
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obstacleee&show_icons=trueact)
 
 - 📫 Email: lucasdelonreb@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-delon/)  
